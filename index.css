@@ -1,0 +1,72 @@
+
+#landing{
+
+	background: linear-gradient( 
+		rgba(0, 0, 0, 0.59), 
+		rgba(0, 0, 0, 0.59) ), 
+	url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvnO7MlXCmqjm5CjAVBSSlonUoAagiDpL40mKy7LF2g&s);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.navbar {
+	background-color: #5A50F6;
+}
+
+nav a {
+	font-family: 'Montserrat';
+	font-style: normal !important;
+	font-weight: 500 !important;
+	font-size: 18px !important;
+	line-height: 22px;
+	/* identical to box height */
+	text-align: center;
+	
+	color: white !important;
+}
+
+#web-developer{
+	background-color: #C9DBEE;
+}
+
+#civil-engineer{
+	background-color: #C9DBEE;
+}
+
+#life-long-learner{
+	background-color: #C9DBEE;
+}
+
+#projects{
+
+	background: linear-gradient( 
+		rgba(0, 0, 0, 0.59), 
+		rgba(0, 0, 0, 0.59) ), 
+	url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvnO7MlXCmqjm5CjAVBSSlonUoAagiDpL40mKy7LF2g&s);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.card{
+	width: 400px;
+}
+
+#contact{
+
+	background: linear-gradient( 
+		rgba(0, 0, 0, 0.59), 
+		rgba(0, 0, 0, 0.59) ), 
+	url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvnO7MlXCmqjm5CjAVBSSlonUoAagiDpL40mKy7LF2g&s);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+#gmap_canvas {
+    height: 60vh;
+    width: 100%;
+}
+
+
